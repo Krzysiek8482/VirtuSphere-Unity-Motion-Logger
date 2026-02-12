@@ -57,3 +57,11 @@ This repository is intended as a **portfolio showcase**, not a fully runnable Un
 - Object-Oriented Programming
 - Data logging & preprocessing
 - Simulation systems
+
+## Screenshots
+
+<p float="left">
+  <img src="media/simulation3.jpg" width="48%" />
+  <img src="media/virtusphere_outside.jpg" width="48%" />
+</p>
+
